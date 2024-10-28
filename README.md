@@ -1,2 +1,2 @@
-# CanSat2025 - Helios
+# CanSat2025 - Atlas
  
